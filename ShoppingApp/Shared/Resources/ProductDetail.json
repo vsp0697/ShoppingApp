@@ -1,0 +1,220 @@
+{
+    "productImages": [
+        {
+            "id": 1,
+            "icon": "productCarousel1"
+        },
+        {
+            "id": 2,
+            "icon": "productCarousel2"
+        },
+        {
+            "id": 3,
+            "icon": "productCarousel3"
+        },
+        {
+            "id": 4,
+            "icon": "productCarousel4"
+        }
+    ],
+    "title": "Logo Print Cotton T-shirt",
+    "amount": 5000,
+    "offerPercentage": 50,
+    "description": "A classic cotton T-shirt tagged with our logo in contrast lettering...",
+    "store": "Blueberry store",
+    "verified": true,
+    "verifiedBy": "buyok",
+    "demand": {
+        "title": "In demand",
+        "description": "13 people bought this in the last 24 hours."
+    },
+    "size" : [
+        {
+            "id" : 1,
+            "title" : "Small",
+            "price" : 1299.0,
+            "stock" : true,
+            "colors" : [
+                {
+                    "id": 1,
+                    "title": "Black",
+                    "hex": "#000000"
+                },
+                {
+                    "id": 2,
+                    "title": "Silver",
+                    "hex": "#C0C0C0"
+                },
+                {
+                    "id": 3,
+                    "title": "Gray",
+                    "hex": "#808080"
+                },
+                {
+                    "id": 4,
+                    "title": "Red",
+                    "hex": "#FF0000"
+                },
+                {
+                    "id": 5,
+                    "title": "Green",
+                    "hex": "#008000"
+                },
+                {
+                    "id": 6,
+                    "title": "Yellow",
+                    "hex": "#FFFF00"
+                },
+                {
+                    "id": 7,
+                    "title": "Blue",
+                    "hex": "#0000FF"
+                }
+            ],
+            "quantity" : {
+                "max": 5
+            }
+        },
+        {
+            "id" : 2,
+            "title" : "Medium",
+            "price" : 1299.0,
+            "stock" : true,
+            "colors" : [
+                {
+                    "id": 1,
+                    "title": "Black",
+                    "hex": "#000000"
+                },
+                {
+                    "id": 3,
+                    "title": "Gray",
+                    "hex": "#808080"
+                },
+                {
+                    "id": 4,
+                    "title": "Red",
+                    "hex": "#FF0000"
+                },
+                {
+                    "id": 6,
+                    "title": "Yellow",
+                    "hex": "#FFFF00"
+                }
+            ],
+            "quantity" : {
+                "max": 3
+            }
+        },
+        {
+            "id" : 3,
+            "title" : "Large",
+            "price" : 1299.0,
+            "stock" : false,
+            "colors" : [
+                {
+                    "id": 1,
+                    "title": "Black",
+                    "hex": "#000000"
+                },
+                {
+                    "id": 7,
+                    "title": "Blue",
+                    "hex": "#0000FF"
+                }
+            ],
+            "quantity" : {
+                "max": 1
+            }
+        },
+        {
+            "id" : 4,
+            "title" : "Xtra Large",
+            "price" : 1299.0,
+            "stock" : true,
+            "colors" : [
+                {
+                    "id": 4,
+                    "title": "Red",
+                    "hex": "#FF0000"
+                },
+                {
+                    "id": 5,
+                    "title": "Green",
+                    "hex": "#008000"
+                },
+                {
+                    "id": 6,
+                    "title": "Yellow",
+                    "hex": "#FFFF00"
+                },
+                {
+                    "id": 7,
+                    "title": "Blue",
+                    "hex": "#0000FF"
+                }
+            ],
+            "quantity" : {
+                "max": 8
+            }
+        },
+        {
+            "id" : 5,
+            "title" : "XXtra Large",
+            "price" : 1299.0,
+            "stock" : true,
+            "colors" : [
+                {
+                    "id": 1,
+                    "title": "Black",
+                    "hex": "#000000"
+                },
+                {
+                    "id": 2,
+                    "title": "Silver",
+                    "hex": "#C0C0C0"
+                },
+                {
+                    "id": 6,
+                    "title": "Yellow",
+                    "hex": "#FFFF00"
+                },
+                {
+                    "id": 7,
+                    "title": "Blue",
+                    "hex": "#0000FF"
+                }
+            ],
+            "quantity" : {
+                "max": 2
+            }
+        }
+    ],
+    "sellerPolicy": {
+        "list" : [
+            {
+                "title": "Shipping",
+                "icon": "truck-fast",
+                "description": "Free shipping on overs above ₹ 2000"
+            },
+            {
+                "title": "Returns/Exchange",
+                "icon": "exchange",
+                "description": "Returns accepted within 15days of delivery"
+            },
+            {
+                "title": "Cancellation",
+                "icon": "box-circle-check",
+                "description": "Can't be cancelled after purchase."
+            }
+        ],
+        "terms": "https://www.google.com/"
+    },
+    "purchaseProtection": {
+        "title": "BuyOK Purchase Protection",
+        "icon": "purchaseProtection",
+        "description": "Shop confidently on BuyOk knowing if something goes wrong with an order, we've got your back for all eligible purchases"
+    },
+    "buyTitle": "Buy Now",
+    "addToCart": "Add to Cart"
+}
